@@ -1,0 +1,54 @@
+html {
+    background-color: hsl(0, 0%, 100%);
+    color: rgb(0, 0, 0);
+    font-size: 62.5%;
+}
+
+body{
+  font-size: 1.5rem;
+}
+
+
+
+h2 {
+    font-size: 3rem;
+    font-weight: 700;
+
+}
+
+
+.mostra {
+    display: right;
+}
+
+.sejararo{
+  height: 24rem;
+  width: 36rem;
+}
+
+.icone{
+  margin-right: 3rem;
+  height: 4rem;
+  width: 4rem;
+}
+
+footer{
+    width: 1200px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.div-evento{
+  border-width: 0.2rem;
+  border-color: gray;
+  border-style: solid;
+  padding: 0.4rem;
+  line-height: 4rem;
+}
+.div-contatos{
+  border-width: 0.2rem;
+  border-color: gray;
+  border-style: solid;
+  padding: 0.4rem;
+  line-height: 2rem;
+}
